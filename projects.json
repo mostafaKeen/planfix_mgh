@@ -1,0 +1,156 @@
+[
+{
+    "owner": {"id": 1069793},
+    "hasEndDate": false,
+    "number": 2,
+    "description": "",
+    "client": {"id": 0},
+    "id": 46569,
+    "projectGroup": {
+        "name": "",
+        "id": 0
+    },
+    "title": "Стандартний шаблон",
+    "status": "Активный"
+}
+,{
+    "owner": {"id": 1069793},
+    "hasEndDate": false,
+    "number": 4,
+    "description": "",
+    "client": {"id": 0},
+    "id": 46571,
+    "projectGroup": {
+        "name": "",
+        "id": 0
+    },
+    "title": "Planfix:  training and support",
+    "status": "Активный"
+}
+,{
+    "owner": {"id": 1069793},
+    "hasEndDate": false,
+    "number": 13,
+    "description": "",
+    "client": {"id": 0},
+    "id": 46893,
+    "projectGroup": {
+        "name": "",
+        "id": 0
+    },
+    "title": "Company Project",
+    "status": "Активный"
+}
+,{
+    "owner": {"id": 1069793},
+    "hasEndDate": false,
+    "number": 15,
+    "description": "",
+    "client": {"id": 0},
+    "id": 46895,
+    "projectGroup": {
+        "name": "",
+        "id": 0
+    },
+    "title": "Client Project",
+    "status": "Активный"
+}
+,{
+    "owner": {"id": 1069793},
+    "hasEndDate": false,
+    "number": 17,
+    "description": "",
+    "client": {"id": 0},
+    "id": 46897,
+    "projectGroup": {
+        "name": "",
+        "id": 0
+    },
+    "title": "Sales",
+    "status": "Активный"
+}
+,{
+    "owner": {"id": 1069793},
+    "hasEndDate": false,
+    "number": 22,
+    "description": "",
+    "client": {"id": 0},
+    "id": 46899,
+    "projectGroup": {
+        "name": "Client Projects",
+        "id": 1355
+    },
+    "title": "Client Project",
+    "status": "Активный"
+}
+,{
+    "owner": {"id": 1069793},
+    "hasEndDate": false,
+    "number": 24,
+    "description": "",
+    "client": {"id": 0},
+    "id": 46901,
+    "projectGroup": {
+        "name": "Client Projects",
+        "id": 1355
+    },
+    "title": "Company Project",
+    "status": "Активный"
+}
+,{
+    "owner": {"id": 1069793},
+    "hasEndDate": false,
+    "number": 34,
+    "description": "",
+    "client": {"id": 0},
+    "id": 46943,
+    "projectGroup": {
+        "name": "Client Projects",
+        "id": 1355
+    },
+    "title": "Client Project",
+    "status": "Активный"
+}
+,{
+    "owner": {"id": 1069793},
+    "hasEndDate": false,
+    "number": 36,
+    "description": "",
+    "client": {"id": 0},
+    "id": 46945,
+    "projectGroup": {
+        "name": "",
+        "id": 0
+    },
+    "title": "Company Project",
+    "status": "Активный"
+}
+,{
+    "owner": {"id": 1069793},
+    "hasEndDate": false,
+    "number": 58,
+    "description": "",
+    "client": {"id": 0},
+    "id": 47007,
+    "projectGroup": {
+        "name": "",
+        "id": 0
+    },
+    "title": "Тестовий проєкт",
+    "status": "Активный"
+}
+,{
+    "owner": {"id": 1069793},
+    "hasEndDate": false,
+    "number": 59,
+    "description": "",
+    "client": {"id": 0},
+    "id": 47009,
+    "projectGroup": {
+        "name": "",
+        "id": 0
+    },
+    "title": "Company Projects l Operational tasks",
+    "status": "Активный"
+}
+]

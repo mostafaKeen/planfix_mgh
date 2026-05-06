@@ -1,0 +1,385 @@
+[
+{
+    "groupName": "Тайм-менеджмент",
+    "name": "Planned working hours",
+    "id": 4,
+    "fields": {
+        "17": {
+            "name": "Співробітник",
+            "id": 17,
+            "type": "LoginList"
+        },
+        "9": {
+            "name": "Планований час роботи",
+            "id": 9,
+            "type": "DateTimePeriod"
+        }
+    }
+}
+,{
+    "groupName": "Управление временем",
+    "name": "Actual completion dates",
+    "id": 6771,
+    "fields": {
+        "40263": {
+            "name": "Дата початку",
+            "id": 40263,
+            "type": "Date"
+        },
+        "40273": {
+            "name": "М",
+            "id": 40273,
+            "type": "Number"
+        },
+        "40271": {
+            "name": "Дата внесення змін",
+            "id": 40271,
+            "type": "DateTime"
+        },
+        "40267": {
+            "name": "Причина",
+            "id": 40267,
+            "type": "String"
+        },
+        "40265": {
+            "name": "Дата завершення",
+            "id": 40265,
+            "type": "Date"
+        },
+        "40269": {
+            "name": "Автор змін",
+            "id": 40269,
+            "type": "User"
+        }
+    }
+}
+,{
+    "groupName": "Управление временем",
+    "name": "Actual work time",
+    "id": 6773,
+    "fields": {
+        "40285": {
+            "name": "Доп. работы",
+            "id": 40285,
+            "type": "Formula"
+        },
+        "40283": {
+            "name": "Сотрудник",
+            "id": 40283,
+            "type": "LoginList"
+        },
+        "40289": {
+            "name": "Срочные работы",
+            "id": 40289,
+            "type": "Formula"
+        },
+        "40277": {
+            "name": "Время работы",
+            "id": 40277,
+            "type": "TimePeriod"
+        },
+        "40287": {
+            "name": "Рабочее время плановое",
+            "id": 40287,
+            "type": "Formula"
+        },
+        "40275": {
+            "name": "Дата",
+            "id": 40275,
+            "type": "Date"
+        },
+        "40279": {
+            "name": "Тип времени",
+            "id": 40279,
+            "type": "Handbook",
+            "handbookId": 12059
+        },
+        "40281": {
+            "name": "Вид работы",
+            "id": 40281,
+            "type": "Handbook",
+            "handbookId": 12057
+        },
+        "40291": {
+            "name": "Сумма",
+            "id": 40291,
+            "type": "Formula"
+        }
+    }
+}
+,{
+    "groupName": "Управление временем",
+    "name": "*Actual work time",
+    "id": 6775,
+    "fields": {
+        "40295": {
+            "name": "Оцінка задачи від виконавця, хв",
+            "id": 40295,
+            "type": "Number"
+        },
+        "40293": {
+            "name": "Дата і час",
+            "id": 40293,
+            "type": "DateTime"
+        },
+        "40299": {
+            "name": "Вид работы",
+            "id": 40299,
+            "type": "Handbook",
+            "handbookId": 12057
+        },
+        "40297": {
+            "name": "Співробітник",
+            "id": 40297,
+            "type": "User"
+        },
+        "40301": {
+            "name": "Коментар по виконанні задачі",
+            "id": 40301,
+            "type": "Text"
+        }
+    }
+}
+,{
+    "groupName": "Payment",
+    "name": "®️ Payment",
+    "id": 6777,
+    "fields": {
+        "40309": {
+            "name": "ФОП / Карта для оплати",
+            "id": 40309,
+            "type": "Handbook",
+            "handbookId": 12021
+        },
+        "40311": {
+            "name": "Тип оплати",
+            "id": 40311,
+            "type": "Enum",
+            "items": "[\"Повна оплата\",\"Передоплата\",\"Доплата\"]"
+        },
+        "40315": {
+            "name": "Сума в EUR",
+            "id": 40315,
+            "type": "Formula"
+        },
+        "40303": {
+            "name": "Дата",
+            "id": 40303,
+            "type": "Date"
+        },
+        "40313": {
+            "name": "Сума в UAH",
+            "id": 40313,
+            "type": "Formula"
+        },
+        "40319": {
+            "name": "Менеджер",
+            "id": 40319,
+            "type": "User"
+        },
+        "40307": {
+            "name": "Валюта оплати",
+            "id": 40307,
+            "type": "Enum",
+            "items": "[\"UAH\",\"USD\",\"EUR\"]"
+        },
+        "40317": {
+            "name": "Сума в USD",
+            "id": 40317,
+            "type": "Formula"
+        },
+        "40305": {
+            "name": "Сума оплати",
+            "id": 40305,
+            "type": "Number"
+        }
+    }
+}
+,{
+    "groupName": "Time management",
+    "name": "Number of activities",
+    "id": 6779,
+    "fields": {
+        "40321": {
+            "name": "Дата и время",
+            "id": 40321,
+            "type": "DateTime"
+        },
+        "40325": {
+            "name": "ID Статус",
+            "id": 40325,
+            "type": "String"
+        },
+        "40323": {
+            "name": "Сотрудник",
+            "id": 40323,
+            "type": "User"
+        },
+        "40329": {
+            "name": "М",
+            "id": 40329,
+            "type": "Number"
+        },
+        "40327": {
+            "name": "Статус",
+            "id": 40327,
+            "type": "String"
+        }
+    }
+}
+,{
+    "groupName": "Time management",
+    "name": "Violation",
+    "id": 6781,
+    "fields": {
+        "40333": {
+            "name": "ТИП порушення",
+            "id": 40333,
+            "type": "String"
+        },
+        "40331": {
+            "name": "Дата и время",
+            "id": 40331,
+            "type": "DateTime"
+        },
+        "40337": {
+            "name": "М",
+            "id": 40337,
+            "type": "Number"
+        },
+        "40335": {
+            "name": "Сотрудник",
+            "id": 40335,
+            "type": "User"
+        },
+        "40339": {
+            "name": "ID Статус",
+            "id": 40339,
+            "type": "String"
+        }
+    }
+}
+,{
+    "groupName": "Status history",
+    "name": "Status history",
+    "id": 6783,
+    "fields": {
+        "40343": {
+            "name": "Статус",
+            "id": 40343,
+            "type": "String"
+        },
+        "40341": {
+            "name": "Дата и время",
+            "id": 40341,
+            "type": "DateTime"
+        },
+        "40347": {
+            "name": "Автор изменения",
+            "id": 40347,
+            "type": "User"
+        },
+        "40345": {
+            "name": "ID Статуса",
+            "id": 40345,
+            "type": "String"
+        },
+        "40349": {
+            "name": "Маркер",
+            "id": 40349,
+            "type": "Number"
+        }
+    }
+}
+,{
+    "groupName": "Telephony",
+    "name": "Call",
+    "id": 7025,
+    "fields": {
+        "41619": {
+            "name": "Time",
+            "id": 41619,
+            "type": "TimePeriod"
+        },
+        "41629": {
+            "name": "External line",
+            "id": 41629,
+            "type": "String"
+        },
+        "41631": {
+            "name": "Contact phone",
+            "id": 41631,
+            "type": "String"
+        },
+        "41623": {
+            "name": "Duration (sec.)",
+            "id": 41623,
+            "type": "Number"
+        },
+        "41633": {
+            "name": "External line name",
+            "id": 41633,
+            "type": "String"
+        },
+        "41621": {
+            "name": "Type",
+            "id": 41621,
+            "type": "Enum",
+            "items": "[\"Incoming\",\"Outgoing\"]"
+        },
+        "41617": {
+            "name": "Date",
+            "id": 41617,
+            "type": "Date"
+        },
+        "41627": {
+            "name": "Contact",
+            "id": 41627,
+            "type": "GroupUserContact"
+        },
+        "41625": {
+            "name": "Employee",
+            "id": 41625,
+            "type": "GroupUserContact"
+        }
+    }
+}
+,{
+    "groupName": "Telephony",
+    "name": "Missed call",
+    "id": 7027,
+    "fields": {
+        "41641": {
+            "name": "External line",
+            "id": 41641,
+            "type": "String"
+        },
+        "41635": {
+            "name": "Date and time",
+            "id": 41635,
+            "type": "DateTime"
+        },
+        "41645": {
+            "name": "External line name",
+            "id": 41645,
+            "type": "String"
+        },
+        "41643": {
+            "name": "Contact phone",
+            "id": 41643,
+            "type": "String"
+        },
+        "41639": {
+            "name": "Contact",
+            "id": 41639,
+            "type": "Contact"
+        },
+        "41637": {
+            "name": "Type",
+            "id": 41637,
+            "type": "Enum",
+            "items": "[\"Incoming\",\"Outgoing\"]"
+        }
+    }
+}
+]

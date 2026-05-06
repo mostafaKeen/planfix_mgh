@@ -1,0 +1,3781 @@
+[
+{
+    "handbook": {"id": 12021},
+    "data": [
+        {
+            "field": {
+                "name": "Название карты",
+                "id": 29365
+            },
+            "value": "ФОП"
+        },
+        {
+            "field": {
+                "name": "Номер карты",
+                "id": 29367
+            },
+            "value": "7777"
+        }
+    ],
+    "id": 1,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12021},
+    "data": [
+        {
+            "field": {
+                "name": "Название карты",
+                "id": 29365
+            },
+            "value": "Р/C VIJAP"
+        },
+        {
+            "field": {
+                "name": "Номер карты",
+                "id": 29367
+            },
+            "value": "333"
+        }
+    ],
+    "id": 2,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12021},
+    "data": [
+        {
+            "field": {
+                "name": "Название карты",
+                "id": 29365
+            },
+            "value": "USDT"
+        },
+        {
+            "field": {
+                "name": "Номер карты",
+                "id": 29367
+            },
+            "value": "888"
+        }
+    ],
+    "id": 4,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12023},
+    "data": [{
+        "field": {
+            "name": "Источник сделки",
+            "id": 29369
+        },
+        "value": "Instagram"
+    }],
+    "id": 2,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12023},
+    "data": [{
+        "field": {
+            "name": "Источник сделки",
+            "id": 29369
+        },
+        "value": "WhatsApp"
+    }],
+    "id": 3,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12023},
+    "data": [{
+        "field": {
+            "name": "Источник сделки",
+            "id": 29369
+        },
+        "value": "Manual input"
+    }],
+    "id": 6,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12023},
+    "data": [{
+        "field": {
+            "name": "Источник сделки",
+            "id": 29369
+        },
+        "value": "Web site"
+    }],
+    "id": 7,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12023},
+    "data": [{
+        "field": {
+            "name": "Источник сделки",
+            "id": 29369
+        },
+        "value": "Сall"
+    }],
+    "id": 8,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12023},
+    "data": [{
+        "field": {
+            "name": "Источник сделки",
+            "id": 29369
+        },
+        "value": "Telegram"
+    }],
+    "id": 9,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12023},
+    "data": [{
+        "field": {
+            "name": "Источник сделки",
+            "id": 29369
+        },
+        "value": "Sendpulse"
+    }],
+    "id": 10,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12025},
+    "data": [{
+        "field": {
+            "name": "Сфера деятельности Компании",
+            "id": 29371
+        },
+        "value": "Сфера деятельности1"
+    }],
+    "id": 1,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12025},
+    "data": [{
+        "field": {
+            "name": "Сфера деятельности Компании",
+            "id": 29371
+        },
+        "value": "Сфера деятельности2"
+    }],
+    "id": 2,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12027},
+    "data": [
+        {
+            "field": {
+                "name": "Название",
+                "id": 29373
+            },
+            "value": "Причини скасування"
+        },
+        {
+            "field": {
+                "name": "Фото",
+                "id": 29375
+            },
+            "value": "1842570"
+        }
+    ],
+    "id": 1,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12027},
+    "data": [
+        {
+            "field": {
+                "name": "Название",
+                "id": 29373
+            },
+            "value": "Вставити Мету і Дату/час наступного дзвінка"
+        },
+        {
+            "field": {
+                "name": "Фото",
+                "id": 29375
+            },
+            "value": "1842642"
+        }
+    ],
+    "id": 2,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12029},
+    "data": [
+        {
+            "field": {
+                "name": "Тема сообщения",
+                "id": 29377
+            },
+            "value": "Після першого недозвону"
+        },
+        {
+            "field": {
+                "name": "uk. Текст сообщения",
+                "id": 29379
+            },
+            "value": "<p>Доброго дня, {{Задача.Постановщик.Имя}},<\/p><p>Ви залишали заявку щодо можливостей автоматизації Вашого бізнесу.<\/p><p>&nbsp;<\/p><p>Наш менеджер намагався зв&#39;язатися з вами , нажаль, відповіді не було.<br /><br />Ми повторно перетелефонуємо Вам сьогодні протягом дня з цього ж номеру.<\/p><p>До зв&#39;язку!&nbsp;<\/p><p>&nbsp;<\/p>"
+        },
+        {
+            "field": {
+                "name": "ru. Текст сообщения",
+                "id": 29381
+            },
+            "value": "<p>&nbsp;<\/p><p>Добрый день, {{Задача.Постановщик.Имя}},<br />Вы оставляли заявку по возможностям автоматизации вашего бизнеса.<\/p><p>&nbsp;<\/p><p>Наш менеджер пытался связаться с вами, к сожалению, ответа не последовало.<\/p><p>&nbsp;<\/p><p>Мы повторно перезвоним вам сегодня в течение дня с этого же номера.<\/p><p>До связи!&nbsp;<\/p><p>&nbsp;<\/p>"
+        },
+        {
+            "field": {
+                "name": "en. Текст сообщения",
+                "id": 29383
+            },
+            "value": "<p>Hello, {{Задача.Постановщик.Имя}},<\/p><p>&nbsp;<\/p><p>You asked about business automation.<\/p><p>Our manager tried to call you but got no answer.<\/p><p>&nbsp;<\/p><p>We will call you again today from the same number.<\/p><p>&nbsp;<\/p><p>Talk soon!<br />&nbsp;<\/p><p>&nbsp;<\/p>"
+        }
+    ],
+    "id": 2,
+    "isGroup": false,
+    "parentId": 15
+}
+,{
+    "handbook": {"id": 12029},
+    "data": [
+        {
+            "field": {
+                "name": "Тема сообщения",
+                "id": 29377
+            },
+            "value": "Передзвонити в дату"
+        },
+        {
+            "field": {
+                "name": "uk. Текст сообщения",
+                "id": 29379
+            },
+            "value": "<p>-<\/p>"
+        },
+        {
+            "field": {
+                "name": "ru. Текст сообщения",
+                "id": 29381
+            },
+            "value": ""
+        },
+        {
+            "field": {
+                "name": "en. Текст сообщения",
+                "id": 29383
+            },
+            "value": ""
+        }
+    ],
+    "id": 3,
+    "isGroup": false,
+    "parentId": 14
+}
+,{
+    "handbook": {"id": 12029},
+    "data": [
+        {
+            "field": {
+                "name": "Тема сообщения",
+                "id": 29377
+            },
+            "value": "Передзвонити (точний час)"
+        },
+        {
+            "field": {
+                "name": "uk. Текст сообщения",
+                "id": 29379
+            },
+            "value": "<p>Вітаю, {{Задача.Контрагент.Имя}}, це {{Task.Assignee.First Name}}<\/p><p>&nbsp;<\/p><p>Фіксую, що ми домовились про дзвінок з Вами на {{Задача.📲 Дата и время следующего звонка для клиента.Число}} {{Задача.📲 Дата и время следующего звонка для клиента.Месяц в родительном падеже}} {{Задача.📲 Дата и время следующего звонка для клиента::ФорматироватьДату=HH:mm}} - щодо можливостей автоматизації вашого бізнесу.<\/p><p>&nbsp;<\/p><p>До зв&#39;язку!<\/p>"
+        },
+        {
+            "field": {
+                "name": "ru. Текст сообщения",
+                "id": 29381
+            },
+            "value": "<p>Здравствуйте, {{Задача.Контрагент.Имя}}, это {{Task.Assignee.First Name}}<\/p><p>&nbsp;<\/p><p>Фиксирую, что мы договорились о звонке с Вами на {{Задача.📲 Дата и время следующего звонка для клиента.Число}} {{Задача.📲 Дата и время следующего звонка для клиента.Месяц в родительном падеже}} {{Задача.📲 Дата и время следующего звонка для клиента::ФорматироватьДату=HH:mm}} по вопросам автоматизации Вашего бизнеса.<\/p><p>&nbsp;<\/p><p>До связи!<\/p><p>&nbsp;<\/p>"
+        },
+        {
+            "field": {
+                "name": "en. Текст сообщения",
+                "id": 29383
+            },
+            "value": "<p>Hello, {{Задача.Контрагент.Имя}}, this is {{Task.Assignee.First Name}}&nbsp;<\/p><p>&nbsp;<\/p><p>We agreed on a call with you on {{Задача.📲 Дата и время следующего звонка для клиента.Число}} {{Задача.📲 Дата и время следующего звонка для клиента.Месяц в родительном падеже}} {{Задача.📲 Дата и время следующего звонка для клиента::ФорматироватьДату=HH:mm}} to talk about business automation.<\/p><p>&nbsp;<\/p><p>Talk soon!<\/p><p>&nbsp;<\/p>"
+        }
+    ],
+    "id": 4,
+    "isGroup": false,
+    "parentId": 15
+}
+,{
+    "handbook": {"id": 12029},
+    "data": [
+        {
+            "field": {
+                "name": "Тема сообщения",
+                "id": 29377
+            },
+            "value": "Запланована презентація. В момент присвоєння статусу:"
+        },
+        {
+            "field": {
+                "name": "uk. Текст сообщения",
+                "id": 29379
+            },
+            "value": "<p>Вітаю {{Задача.Контрагент.Имя}}, у Вас запланована онлайн-зустріч щодо можливостей автоматизації вашого бізнесу {{Задача.📲 Дата и время следующего звонка для клиента.Число}}.{{Задача.📲 Дата и время следующего звонка для клиента<b style=\"box-sizing: border-box; font-weight: 700; color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; ; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial\">:<\/b><b style=\"box-sizing: border-box; font-weight: 700; color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; ; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial\">:Форматировать<\/b><b style=\"box-sizing: border-box; font-weight: 700; color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; ; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial\">Дату<\/b><b style=\"box-sizing: border-box; font-weight: 700; color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; ; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial\">=<\/b><span style=\"color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; ; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important\">MM<\/span>}} на {{Задача.📲 Дата и время следующего звонка для клиента::ФорматироватьДату=HH:mm}}<\/p><p>&nbsp;<\/p><p>Посилання на зустріч Ви отримаєте в цей же чат за годину до зустрічі. Вам буде зручніше, якщо Ви зможете приєднатися на презентацію з ноутбуку чи комп&#39;ютера. Я покажу Вам багато цікавих можливостей для вашого бізнесу!<\/p><p>&nbsp;<\/p><p>До зустрічі!<br />&nbsp;<\/p>"
+        },
+        {
+            "field": {
+                "name": "ru. Текст сообщения",
+                "id": 29381
+            },
+            "value": "<p>Здравствуйте, {{Задача.Контрагент.Имя}}! У Вас запланирована онлайн-встреча по возможностям автоматизации вашего бизнеса .<\/p><p>&nbsp;<\/p><p>Дата и время следующего звонка: {{Задача.📲 Дата и время следующего звонка для клиента.Число}}.{{Задача.📲 Дата и время следующего звонка для клиента<b style=\"box-sizing: border-box; font-weight: 700; color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; ; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial\">:<\/b><b style=\"box-sizing: border-box; font-weight: 700; color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; ; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial\">:Форматировать<\/b><b style=\"box-sizing: border-box; font-weight: 700; color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; ; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial\">Дату<\/b><b style=\"box-sizing: border-box; font-weight: 700; color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; ; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial\">=<\/b><span style=\"color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; ; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important\">MM<\/span>}} на {{Задача.📲 Дата и время следующего звонка для клиента::ФорматироватьДату=HH:mm}}<\/p><p>&nbsp;<\/p><p>Ссылку на встречу Вы получите в этом чате за час до начала. Вам будет удобнее, если Вы сможете присоединиться к презентации с ноутбука или компьютера. Я покажу вам много интересных возможностей для Вашего бизнеса!<\/p><p>&nbsp;<\/p><p>До встречи!&nbsp;<\/p><p>&nbsp;<\/p>"
+        },
+        {
+            "field": {
+                "name": "en. Текст сообщения",
+                "id": 29383
+            },
+            "value": "<p>Hello, {{Задача.Контрагент.Имя}}! You have an online meeting about business automation.<\/p><p>&nbsp;<\/p><p>Date and time: {{Задача.📲 Дата и время следующего звонка для клиента.Число}}.{{Задача.📲 Дата и время следующего звонка для клиента<b style=\"box-sizing: border-box; font-weight: 700; color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; ; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial\">:<\/b><b style=\"box-sizing: border-box; font-weight: 700; color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; ; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial\">:Форматировать<\/b><b style=\"box-sizing: border-box; font-weight: 700; color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; ; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial\">Дату<\/b><b style=\"box-sizing: border-box; font-weight: 700; color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; ; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial\">=<\/b><span style=\"color: rgb(51, 51, 51); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; ; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important\">MM<\/span>}} на {{Задача.📲 Дата и время следующего звонка для клиента::ФорматироватьДату=HH:mm}}<\/p><p>&nbsp;<\/p><p>You will get the meeting link in this chat one hour before the start. It will be easier for you to join from a laptop or computer. I will show you many useful things for your business!<\/p><p>&nbsp;<\/p><p>See you soon!<br />&nbsp;<\/p><p>&nbsp;<\/p>"
+        }
+    ],
+    "id": 5,
+    "isGroup": false,
+    "parentId": 15
+}
+,{
+    "handbook": {"id": 12029},
+    "data": [
+        {
+            "field": {
+                "name": "Тема сообщения",
+                "id": 29377
+            },
+            "value": "Запланована презентація. В день презентації о 9:30"
+        },
+        {
+            "field": {
+                "name": "uk. Текст сообщения",
+                "id": 29379
+            },
+            "value": "<p><span>Вітаю {{Задача.Постановщик.Имя}}, сьогодні у Вас запланована онлайн-зустріч щодо можливостей автоматизації вашого бізнесу на {{Задача.📲 Дата и время следующего звонка для клиента::ФорматироватьДату=HH:mm}}.<br /><br />Посилання на зустріч ви отримаєте в цей же чат за годину до зустрічі.<\/span><br />&nbsp;<\/p><p><span>До зустрічі! {{Task.Assignee.First Name}}<\/span><\/p>"
+        },
+        {
+            "field": {
+                "name": "ru. Текст сообщения",
+                "id": 29381
+            },
+            "value": "<p>Здравствуйте, {{Задача.Постановщик.Имя}}!<\/p><p>Сегодня у вас запланирована онлайн-встреча по возможностям автоматизации вашего бизнеса в {{Задача.📲 Дата и время следующего звонка для клиента::ФорматироватьДату=HH:mm}}.<\/p><p>&nbsp;<\/p><p>Ссылку на встречу вы получите в этом чате за час до её начала.<\/p><p>&nbsp;<\/p><p>До встречи!<br /><span>{{Task.Assignee.First Name}}<\/span><\/p>"
+        },
+        {
+            "field": {
+                "name": "en. Текст сообщения",
+                "id": 29383
+            },
+            "value": "<p>Hello {{Задача.Постановщик.Имя}},<\/p><p>Today, you have a scheduled online meeting about the possibilities of automating your business at {{Задача.📲 Дата и время следующего звонка для клиента::ФорматироватьДату=HH:mm}}.<\/p><p>&nbsp;<\/p><p>You will receive the meeting link in this chat one hour before the meeting.<\/p><p>&nbsp;<\/p><p>See you soon!<br /><span>{{Task.Assignee.First Name}}<\/span><\/p>"
+        }
+    ],
+    "id": 6,
+    "isGroup": false,
+    "parentId": 15
+}
+,{
+    "handbook": {"id": 12029},
+    "data": [
+        {
+            "field": {
+                "name": "Тема сообщения",
+                "id": 29377
+            },
+            "value": "Запланована презентація. За 60 хв до зустрічі"
+        },
+        {
+            "field": {
+                "name": "uk. Текст сообщения",
+                "id": 29379
+            },
+            "value": "<p><span>{{Задача.Постановщик.Имя}}, через годину о<\/span> {{Задача.📲 Дата и время следующего звонка для клиента::ФорматироватьДату=HH:mm}} <span>у Вас запланована онлайн-зустріч щодо можливостей автоматизації вашого бізнесу. <\/span><\/p><p>&nbsp;<\/p><p><span>Посилання на зустріч: {{Задача.🔗 Ссылка на мит}}.<\/span><\/p>"
+        },
+        {
+            "field": {
+                "name": "ru. Текст сообщения",
+                "id": 29381
+            },
+            "value": "<p>&nbsp;<\/p><p><span>{{Задача.Постановщик.Имя}}<\/span>, через час, в {{Задача.📲 Дата и время следующего звонка для клиента::ФорматироватьДату=HH:mm}}, у вас запланирована онлайн-встреча по возможностям автоматизации вашего бизнеса.<\/p><p>Ссылка на встречу: <span>{{Задача.🔗 Ссылка на мит}}.<\/span><\/p><p>&nbsp;<\/p>"
+        },
+        {
+            "field": {
+                "name": "en. Текст сообщения",
+                "id": 29383
+            },
+            "value": "<p><span>{{Задача.Постановщик.Имя}}<\/span>, In one hour, at {{Задача.📲 Дата и время следующего звонка для клиента::ФорматироватьДату=HH:mm}} , you have an online meeting about business automation.<\/p><p>Meeting link: <span>{{Задача.🔗 Ссылка на мит}}.<\/span><\/p><p>&nbsp;<\/p>"
+        }
+    ],
+    "id": 7,
+    "isGroup": false,
+    "parentId": 15
+}
+,{
+    "handbook": {"id": 12029},
+    "data": [
+        {
+            "field": {
+                "name": "Тема сообщения",
+                "id": 29377
+            },
+            "value": "Проведена презентація: готуємось. В момент присвоєння статусу."
+        },
+        {
+            "field": {
+                "name": "uk. Текст сообщения",
+                "id": 29379
+            },
+            "value": "<p>{{Задача.Постановщик.ИО}}, радий був познайомитись та поспілкуватися на презентації.<\/p><p>Ви завжди можете просто писати в цей чат-бот для зв&rsquo;язку зі мною. Будемо на зв&#39;язку!<\/p><p>&nbsp;<\/p><p>Запис нашої зустрічі: {{Задача.🔗 Ссылка на Запись}}.<\/p><p>&nbsp;<\/p>"
+        },
+        {
+            "field": {
+                "name": "ru. Текст сообщения",
+                "id": 29381
+            },
+            "value": "<p>&nbsp;<\/p><p>{{Задача.Постановщик.ИО}}, рад был познакомиться и пообщаться на презентации.<\/p><p>Вы всегда можете просто написать в этот чат-бот, чтобы связаться со мной. Будем на связи!<\/p><p>&nbsp;<\/p><p>Запись нашей встречи: {{Задача.🔗 Ссылка на Запись}}.<\/p><p>&nbsp;<\/p>"
+        },
+        {
+            "field": {
+                "name": "en. Текст сообщения",
+                "id": 29383
+            },
+            "value": "<p>{{Задача.Постановщик.ИО}},It was nice to meet you and talk at the presentation.<\/p><p>You can always write in this chat-bot to contact me. Let&rsquo;s stay in touch!<\/p><p>&nbsp;<\/p><p>Meeting recording: {{Задача.🔗 Ссылка на Запись}}.<\/p><p>&nbsp;<\/p>"
+        }
+    ],
+    "id": 9,
+    "isGroup": false,
+    "parentId": 15
+}
+,{
+    "handbook": {"id": 12029},
+    "data": [
+        {
+            "field": {
+                "name": "Тема сообщения",
+                "id": 29377
+            },
+            "value": "Проведена презентація: готуємось. В момент присвоєння статусу. \"Плановий пакет\" = Не визначено"
+        },
+        {
+            "field": {
+                "name": "uk. Текст сообщения",
+                "id": 29379
+            },
+            "value": "<p>-<\/p>"
+        },
+        {
+            "field": {
+                "name": "ru. Текст сообщения",
+                "id": 29381
+            },
+            "value": ""
+        },
+        {
+            "field": {
+                "name": "en. Текст сообщения",
+                "id": 29383
+            },
+            "value": ""
+        }
+    ],
+    "id": 10,
+    "isGroup": false,
+    "parentId": 14
+}
+,{
+    "handbook": {"id": 12029},
+    "data": [
+        {
+            "field": {
+                "name": "Тема сообщения",
+                "id": 29377
+            },
+            "value": "Запланована презентація. За 15 хв до зустрічі"
+        },
+        {
+            "field": {
+                "name": "uk. Текст сообщения",
+                "id": 29379
+            },
+            "value": "<p>{{Задача.Постановщик.Имя}}, через 15 хвилин о {{Задача.📲 Дата и время следующего звонка для клиента::ФорматироватьДату=HH:mm}} ми з Вами детально поговоримо про те, які є можливості для автоматизації та систематизації Вашого бізнесу.<\/p><p>&nbsp;<\/p><p>Посилання на зустріч: {{Задача.🔗 Ссылка на мит}}.<\/p><p><br />{{Task.Assignee.First Name}},<\/p>"
+        },
+        {
+            "field": {
+                "name": "ru. Текст сообщения",
+                "id": 29381
+            },
+            "value": "<p>&nbsp;<\/p><p>{{Задача.Постановщик.Имя}}, через 15 минут, в {{Задача.📲 Дата и время следующего звонка для клиента::ФорматироватьДату=HH:mm}} , мы подробно обсудим возможности автоматизации и систематизации вашего бизнеса.<\/p><p>&nbsp;<\/p><p>Ссылка на встречу: {{Задача.🔗 Ссылка на мит}}.<\/p><p>&nbsp;<\/p><p>{{Task.Assignee.First Name}}<\/p><p>&nbsp;<\/p>"
+        },
+        {
+            "field": {
+                "name": "en. Текст сообщения",
+                "id": 29383
+            },
+            "value": "<p>{{Задача.Постановщик.Имя}}, In 15 minutes, at {{Задача.📲 Дата и время следующего звонка для клиента::ФорматироватьДату=HH:mm}} , we will talk about how to automate and organize your business.<\/p><p>&nbsp;<\/p><p>Meeting link: {{Задача.🔗 Ссылка на мит}}.<\/p><p>&nbsp;<\/p><p>{{Task.Assignee.First Name}}<\/p><p>&nbsp;<\/p>"
+        }
+    ],
+    "id": 11,
+    "isGroup": false,
+    "parentId": 15
+}
+,{
+    "handbook": {"id": 12029},
+    "data": [
+        {
+            "field": {
+                "name": "Тема сообщения",
+                "id": 29377
+            },
+            "value": "За 5 до наступления времени"
+        },
+        {
+            "field": {
+                "name": "uk. Текст сообщения",
+                "id": 29379
+            },
+            "value": "<p>{{Task.Assigner.First Name}}, за 5 хв у Вас починається презентація: {{Task.Посилання на міт}}.<\/p>\n<p>&nbsp;<\/p>"
+        },
+        {
+            "field": {
+                "name": "ru. Текст сообщения",
+                "id": 29381
+            },
+            "value": "<p>{{Task.Assigner.First Name}}, через 5 минут у вас начинается презентация:<\/p>\n<p>{{Task.Посилання на міт}}.<\/p>\n<p>&nbsp;<\/p>"
+        },
+        {
+            "field": {
+                "name": "en. Текст сообщения",
+                "id": 29383
+            },
+            "value": "<p>{{Task.Assigner.First Name}},In 5 minutes, your presentation will start: {{Task.Посилання на міт}}.<\/p>\n<p>&nbsp;<\/p>\n<div style=\" left: -58px; top: -29px\">\n <div>\n   \n <\/div>\n<\/div>"
+        }
+    ],
+    "id": 13,
+    "isGroup": false,
+    "parentId": 15
+}
+,{
+    "handbook": {"id": 12029},
+    "data": [{"value": "Архив"}],
+    "id": 14,
+    "isGroup": true,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12029},
+    "data": [{"value": "Продажи"}],
+    "id": 15,
+    "isGroup": true,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12029},
+    "data": [{"value": "Коммуникация в чате"}],
+    "id": 16,
+    "isGroup": true,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12029},
+    "data": [
+        {
+            "field": {
+                "name": "Тема сообщения",
+                "id": 29377
+            },
+            "value": "Запрос от клиента после 16:00 до 18:00 через 120 мин."
+        },
+        {
+            "field": {
+                "name": "uk. Текст сообщения",
+                "id": 29379
+            },
+            "value": "<p><span style=\"color: rgb(52, 52, 52); font-family: -apple-system; font-size: 14.6667px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; ; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important\">Зафіксував запит від Вас! Враховуючи, що відповідь була надіслана після 16:00 (за київським часом) - нам потрібно трохи більше часу для опрацювання. Відповідь буде надана до 12:00 наступного робочого дня.&nbsp;<\/span><\/p>"
+        },
+        {
+            "field": {
+                "name": "ru. Текст сообщения",
+                "id": 29381
+            },
+            "value": "<p>Зафиксировал запрос от Вас! Учитывая, что ответ был отправлен после 16:00 (по киевскому времени) - нам нужно немного больше времени для обработки. Ответ будет предоставлен до 12:00 следующего рабочего дня.&nbsp;<\/p>"
+        },
+        {
+            "field": {
+                "name": "en. Текст сообщения",
+                "id": 29383
+            },
+            "value": "<p>I have recorded your request! Considering that the response was sent after 16:00 (Kyiv time) - we need a little more time to process it. The response will be provided by 12:00 the next business day.&nbsp;<\/p>"
+        }
+    ],
+    "id": 19,
+    "isGroup": false,
+    "parentId": 16
+}
+,{
+    "handbook": {"id": 12029},
+    "data": [
+        {
+            "field": {
+                "name": "Тема сообщения",
+                "id": 29377
+            },
+            "value": "ТГ Запрос от клиента после 18:00 через 30 мин."
+        },
+        {
+            "field": {
+                "name": "uk. Текст сообщения",
+                "id": 29379
+            },
+            "value": "<p><span style=\"color: rgb(52, 52, 52); font-family: -apple-system; font-size: 14.6667px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; ; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important\">Вітаємо! Ви написали в неробочий час. Я зафіксував запит від Вас. Відповідь буде надана до 12:00 наступного робочого дня.<\/span><\/p>"
+        },
+        {
+            "field": {
+                "name": "ru. Текст сообщения",
+                "id": 29381
+            },
+            "value": "<p>Поздравляем! Вы написали в нерабочее время. Я зафиксировал запрос от вас. Ответ будет предоставлен до 12:00 следующего рабочего дня.&nbsp;<\/p>"
+        },
+        {
+            "field": {
+                "name": "en. Текст сообщения",
+                "id": 29383
+            },
+            "value": "<p>Congratulations! You wrote after business hours. I have recorded your request. A response will be provided by 12:00 the next business day.&nbsp;<\/p>"
+        }
+    ],
+    "id": 20,
+    "isGroup": false,
+    "parentId": 16
+}
+,{
+    "handbook": {"id": 12029},
+    "data": [
+        {
+            "field": {
+                "name": "Тема сообщения",
+                "id": 29377
+            },
+            "value": "Запрос от клиента до 16:00 через 120 мин."
+        },
+        {
+            "field": {
+                "name": "uk. Текст сообщения",
+                "id": 29379
+            },
+            "value": "<p><span style=\"color: rgb(52, 52, 52); font-family: -apple-system; font-size: 14.6667px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; ; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important\">Зафіксував запит від Вас! Ми надамо відповідь сьогодні до кінця дня. З повагою,&nbsp;<\/span><\/p>"
+        },
+        {
+            "field": {
+                "name": "ru. Текст сообщения",
+                "id": 29381
+            },
+            "value": "<p>Зафиксировал запрос от Вас! Мы ответим сегодня до конца дня.&nbsp;<\/p>"
+        },
+        {
+            "field": {
+                "name": "en. Текст сообщения",
+                "id": 29383
+            },
+            "value": "<p>We have recorded your request! We will respond today by the end of the day.&nbsp;<\/p>"
+        }
+    ],
+    "id": 21,
+    "isGroup": false,
+    "parentId": 16
+}
+,{
+    "handbook": {"id": 12029},
+    "data": [
+        {
+            "field": {
+                "name": "Тема сообщения",
+                "id": 29377
+            },
+            "value": "Планували/ не пришли на презентацію"
+        },
+        {
+            "field": {
+                "name": "uk. Текст сообщения",
+                "id": 29379
+            },
+            "value": "<p>{{Задача.Контрагент.Имя}}, шкода, що наша зустріч не відбулась!<br /><br />Я підготував багато корисного та цікавого матеріалу для Вас! Якщо тема досі актуальна &mdash; напишіть в цьому чаті будь-яке повідомлення і я знову організую нашу зустріч!<br /><br />{{Task.Assignee.First Name}}<\/p>"
+        },
+        {
+            "field": {
+                "name": "ru. Текст сообщения",
+                "id": 29381
+            },
+            "value": "<p>{{Задача.Контрагент.Имя}}, жаль, что наша встреча не состоялась!<br>&nbsp;<\/p>\n<p>Я подготовил для Вас много полезного и интересного материала. Если тема всё ещё актуальна \u2014 просто напишите любое сообщение в этом чате, и я с удовольствием снова организую нашу встречу!<br>&nbsp;<\/p>\n<p>{{Task.Assignee.First Name}}, компания VIJAP!<\/p>"
+        },
+        {
+            "field": {
+                "name": "en. Текст сообщения",
+                "id": 29383
+            },
+            "value": "<p>{{Задача.Контрагент.Имя}}, it's a pity our meeting didn\u2019t take place!<br>&nbsp;<\/p>\n<p>I had prepared a lot of valuable and interesting materials for you. If the topic is still relevant \u2014 just send any message in this chat, and I\u2019ll be happy to reschedule our meeting!<br>&nbsp;<\/p>\n<p>{{Task.Assignee.First Name}}, VIJAP Team<\/p>"
+        }
+    ],
+    "id": 22,
+    "isGroup": false,
+    "parentId": 15
+}
+,{
+    "handbook": {"id": 12031},
+    "data": [
+        {
+            "field": {
+                "name": "The name of the reason for cancellation",
+                "id": 29385
+            },
+            "value": "Dear"
+        },
+        {
+            "field": {
+                "name": "The essence of the reason for cancellation",
+                "id": 29387
+            },
+            "value": "Expensive service. Please provide details in the comments."
+        },
+        {
+            "field": {
+                "name": "The need to fill in the \"Comment on cancellation\" field",
+                "id": 29389
+            },
+            "value": "Yes"
+        }
+    ],
+    "id": 1,
+    "isGroup": false,
+    "parentId": 12
+}
+,{
+    "handbook": {"id": 12031},
+    "data": [
+        {
+            "field": {
+                "name": "The name of the reason for cancellation",
+                "id": 29385
+            },
+            "value": "The service is not suitable (the reason is in the product)"
+        },
+        {
+            "field": {
+                "name": "The essence of the reason for cancellation",
+                "id": 29387
+            },
+            "value": "The service did not fit the content. Specify what was needed"
+        },
+        {
+            "field": {
+                "name": "The need to fill in the \"Comment on cancellation\" field",
+                "id": 29389
+            },
+            "value": "Yes"
+        }
+    ],
+    "id": 2,
+    "isGroup": false,
+    "parentId": 12
+}
+,{
+    "handbook": {"id": 12031},
+    "data": [
+        {
+            "field": {
+                "name": "The name of the reason for cancellation",
+                "id": 29385
+            },
+            "value": "Request for consultation...it was just interesting"
+        },
+        {
+            "field": {
+                "name": "The essence of the reason for cancellation",
+                "id": 29387
+            },
+            "value": "Just curious. Please provide details on what exactly/what you didn't buy."
+        },
+        {
+            "field": {
+                "name": "The need to fill in the \"Comment on cancellation\" field",
+                "id": 29389
+            },
+            "value": "Ні"
+        }
+    ],
+    "id": 3,
+    "isGroup": false,
+    "parentId": 12
+}
+,{
+    "handbook": {"id": 12031},
+    "data": [
+        {
+            "field": {
+                "name": "The name of the reason for cancellation",
+                "id": 29385
+            },
+            "value": "Stopped answering"
+        },
+        {
+            "field": {
+                "name": "The essence of the reason for cancellation",
+                "id": 29387
+            },
+            "value": "There was communication, but they stopped responding."
+        },
+        {
+            "field": {
+                "name": "The need to fill in the \"Comment on cancellation\" field",
+                "id": 29389
+            },
+            "value": "Ні"
+        }
+    ],
+    "id": 4,
+    "isGroup": false,
+    "parentId": 12
+}
+,{
+    "handbook": {"id": 12031},
+    "data": [
+        {
+            "field": {
+                "name": "The name of the reason for cancellation",
+                "id": 29385
+            },
+            "value": "No call (no contact at all)"
+        },
+        {
+            "field": {
+                "name": "The essence of the reason for cancellation",
+                "id": 29387
+            },
+            "value": "There was no communication with the lead: no call/no messenger"
+        },
+        {
+            "field": {
+                "name": "The need to fill in the \"Comment on cancellation\" field",
+                "id": 29389
+            },
+            "value": "Ні"
+        }
+    ],
+    "id": 5,
+    "isGroup": false,
+    "parentId": 12
+}
+,{
+    "handbook": {"id": 12031},
+    "data": [
+        {
+            "field": {
+                "name": "The name of the reason for cancellation",
+                "id": 29385
+            },
+            "value": "Fake lid"
+        },
+        {
+            "field": {
+                "name": "The essence of the reason for cancellation",
+                "id": 29387
+            },
+            "value": "The application was not submitted/it was made for another person"
+        },
+        {
+            "field": {
+                "name": "The need to fill in the \"Comment on cancellation\" field",
+                "id": 29389
+            },
+            "value": "Ні"
+        }
+    ],
+    "id": 6,
+    "isGroup": false,
+    "parentId": 11
+}
+,{
+    "handbook": {"id": 12031},
+    "data": [
+        {
+            "field": {
+                "name": "The name of the reason for cancellation",
+                "id": 29385
+            },
+            "value": "Test lid"
+        },
+        {
+            "field": {
+                "name": "The essence of the reason for cancellation",
+                "id": 29387
+            },
+            "value": "Test applications"
+        },
+        {
+            "field": {
+                "name": "The need to fill in the \"Comment on cancellation\" field",
+                "id": 29389
+            },
+            "value": "Ні"
+        }
+    ],
+    "id": 7,
+    "isGroup": false,
+    "parentId": 11
+}
+,{
+    "handbook": {"id": 12031},
+    "data": [
+        {
+            "field": {
+                "name": "The name of the reason for cancellation",
+                "id": 29385
+            },
+            "value": "Duplicate"
+        },
+        {
+            "field": {
+                "name": "The essence of the reason for cancellation",
+                "id": 29387
+            },
+            "value": "Duplicate agreement"
+        },
+        {
+            "field": {
+                "name": "The need to fill in the \"Comment on cancellation\" field",
+                "id": 29389
+            },
+            "value": "Ні"
+        }
+    ],
+    "id": 8,
+    "isGroup": false,
+    "parentId": 11
+}
+,{
+    "handbook": {"id": 12031},
+    "data": [
+        {
+            "field": {
+                "name": "The name of the reason for cancellation",
+                "id": 29385
+            },
+            "value": "Broken number set of digits"
+        },
+        {
+            "field": {
+                "name": "The essence of the reason for cancellation",
+                "id": 29387
+            },
+            "value": "Physically incorrect number"
+        },
+        {
+            "field": {
+                "name": "The need to fill in the \"Comment on cancellation\" field",
+                "id": 29389
+            },
+            "value": "Ні"
+        }
+    ],
+    "id": 9,
+    "isGroup": false,
+    "parentId": 11
+}
+,{
+    "handbook": {"id": 12031},
+    "data": [
+        {
+            "field": {
+                "name": "The name of the reason for cancellation",
+                "id": 29385
+            },
+            "value": "replied that he was not interested in buying real estate"
+        },
+        {
+            "field": {
+                "name": "The essence of the reason for cancellation",
+                "id": 29387
+            },
+            "value": "replied that he was not interested in buying real estate"
+        },
+        {
+            "field": {
+                "name": "The need to fill in the \"Comment on cancellation\" field",
+                "id": 29389
+            },
+            "value": "Yes"
+        }
+    ],
+    "id": 10,
+    "isGroup": false,
+    "parentId": 11
+}
+,{
+    "handbook": {"id": 12031},
+    "data": [{"value": "Gray reasons"}],
+    "id": 11,
+    "isGroup": true,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12031},
+    "data": [{"value": "White reasons"}],
+    "id": 12,
+    "isGroup": true,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12031},
+    "data": [
+        {
+            "field": {
+                "name": "The name of the reason for cancellation",
+                "id": 29385
+            },
+            "value": "Doesn't understand Ukrainian Russian"
+        },
+        {
+            "field": {
+                "name": "The essence of the reason for cancellation",
+                "id": 29387
+            },
+            "value": "communicates in an incomprehensible language"
+        },
+        {
+            "field": {
+                "name": "The need to fill in the \"Comment on cancellation\" field",
+                "id": 29389
+            },
+            "value": "Ні"
+        }
+    ],
+    "id": 14,
+    "isGroup": false,
+    "parentId": 12
+}
+,{
+    "handbook": {"id": 12031},
+    "data": [
+        {
+            "field": {
+                "name": "The name of the reason for cancellation",
+                "id": 29385
+            },
+            "value": "Not relevant lead is no business"
+        },
+        {
+            "field": {
+                "name": "The essence of the reason for cancellation",
+                "id": 29387
+            },
+            "value": ""
+        },
+        {
+            "field": {
+                "name": "The need to fill in the \"Comment on cancellation\" field",
+                "id": 29389
+            },
+            "value": "Ні"
+        }
+    ],
+    "id": 15,
+    "isGroup": false,
+    "parentId": 11
+}
+,{
+    "handbook": {"id": 12031},
+    "data": [
+        {
+            "field": {
+                "name": "The name of the reason for cancellation",
+                "id": 29385
+            },
+            "value": "No response after multiple attempts"
+        },
+        {
+            "field": {
+                "name": "The essence of the reason for cancellation",
+                "id": 29387
+            },
+            "value": ""
+        },
+        {
+            "field": {
+                "name": "The need to fill in the \"Comment on cancellation\" field",
+                "id": 29389
+            },
+            "value": ""
+        }
+    ],
+    "id": 16,
+    "isGroup": false,
+    "parentId": 12
+}
+,{
+    "handbook": {"id": 12031},
+    "data": [
+        {
+            "field": {
+                "name": "The name of the reason for cancellation",
+                "id": 29385
+            },
+            "value": "cold ice just interested to see"
+        },
+        {
+            "field": {
+                "name": "The essence of the reason for cancellation",
+                "id": 29387
+            },
+            "value": ""
+        },
+        {
+            "field": {
+                "name": "The need to fill in the \"Comment on cancellation\" field",
+                "id": 29389
+            },
+            "value": ""
+        }
+    ],
+    "id": 17,
+    "isGroup": false,
+    "parentId": 12
+}
+,{
+    "handbook": {"id": 12031},
+    "data": [
+        {
+            "field": {
+                "name": "The name of the reason for cancellation",
+                "id": 29385
+            },
+            "value": "Post processing on social media"
+        },
+        {
+            "field": {
+                "name": "The essence of the reason for cancellation",
+                "id": 29387
+            },
+            "value": ""
+        },
+        {
+            "field": {
+                "name": "The need to fill in the \"Comment on cancellation\" field",
+                "id": 29389
+            },
+            "value": ""
+        }
+    ],
+    "id": 18,
+    "isGroup": false,
+    "parentId": 12
+}
+,{
+    "handbook": {"id": 12031},
+    "data": [{
+        "field": {
+            "name": "The name of the reason for cancellation",
+            "id": 29385
+        },
+        "value": "No response after multiple attempts"
+    }],
+    "id": 19,
+    "isGroup": false,
+    "parentId": 12
+}
+,{
+    "handbook": {"id": 12033},
+    "data": [{
+        "field": {
+            "name": "Посади керівників",
+            "id": 29391
+        },
+        "value": "PR-менеджер"
+    }],
+    "id": 1,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12033},
+    "data": [{
+        "field": {
+            "name": "Посади керівників",
+            "id": 29391
+        },
+        "value": "Адміністратор"
+    }],
+    "id": 2,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12033},
+    "data": [{
+        "field": {
+            "name": "Посади керівників",
+            "id": 29391
+        },
+        "value": "Акаунт-менеджер"
+    }],
+    "id": 3,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12033},
+    "data": [{
+        "field": {
+            "name": "Посади керівників",
+            "id": 29391
+        },
+        "value": "Аналітик"
+    }],
+    "id": 4,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12033},
+    "data": [{
+        "field": {
+            "name": "Посади керівників",
+            "id": 29391
+        },
+        "value": "Асистент"
+    }],
+    "id": 5,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12033},
+    "data": [{
+        "field": {
+            "name": "Посади керівників",
+            "id": 29391
+        },
+        "value": "Виконавчий директор"
+    }],
+    "id": 6,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12033},
+    "data": [{
+        "field": {
+            "name": "Посади керівників",
+            "id": 29391
+        },
+        "value": "Власник"
+    }],
+    "id": 7,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12033},
+    "data": [{
+        "field": {
+            "name": "Посади керівників",
+            "id": 29391
+        },
+        "value": "Генеральний менеджер"
+    }],
+    "id": 8,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12033},
+    "data": [{
+        "field": {
+            "name": "Посади керівників",
+            "id": 29391
+        },
+        "value": "Головний бухгалтер"
+    }],
+    "id": 9,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12033},
+    "data": [{
+        "field": {
+            "name": "Посади керівників",
+            "id": 29391
+        },
+        "value": "Головний інженер"
+    }],
+    "id": 10,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12033},
+    "data": [{
+        "field": {
+            "name": "Посади керівників",
+            "id": 29391
+        },
+        "value": "Директор"
+    }],
+    "id": 11,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12033},
+    "data": [{
+        "field": {
+            "name": "Посади керівників",
+            "id": 29391
+        },
+        "value": "Директор (фінанси)"
+    }],
+    "id": 12,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12033},
+    "data": [{
+        "field": {
+            "name": "Посади керівників",
+            "id": 29391
+        },
+        "value": "Директор з маркетингу"
+    }],
+    "id": 13,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12033},
+    "data": [{
+        "field": {
+            "name": "Посади керівників",
+            "id": 29391
+        },
+        "value": "Директор з персоналу"
+    }],
+    "id": 14,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12033},
+    "data": [{
+        "field": {
+            "name": "Посади керівників",
+            "id": 29391
+        },
+        "value": "Директор з персоналу"
+    }],
+    "id": 15,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12033},
+    "data": [{
+        "field": {
+            "name": "Посади керівників",
+            "id": 29391
+        },
+        "value": "Директор з продажу"
+    }],
+    "id": 16,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12033},
+    "data": [{
+        "field": {
+            "name": "Посади керівників",
+            "id": 29391
+        },
+        "value": "Директор з розвитку"
+    }],
+    "id": 17,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12033},
+    "data": [{
+        "field": {
+            "name": "Посади керівників",
+            "id": 29391
+        },
+        "value": "Директор інтернет-магазину"
+    }],
+    "id": 18,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12033},
+    "data": [{
+        "field": {
+            "name": "Посади керівників",
+            "id": 29391
+        },
+        "value": "Директор ІТ"
+    }],
+    "id": 19,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12033},
+    "data": [{
+        "field": {
+            "name": "Посади керівників",
+            "id": 29391
+        },
+        "value": "Директор підрозділу"
+    }],
+    "id": 20,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12033},
+    "data": [{
+        "field": {
+            "name": "Посади керівників",
+            "id": 29391
+        },
+        "value": "Заступник генерального директора"
+    }],
+    "id": 21,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12033},
+    "data": [{
+        "field": {
+            "name": "Посади керівників",
+            "id": 29391
+        },
+        "value": "Заступник директора виробництва"
+    }],
+    "id": 22,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12033},
+    "data": [{
+        "field": {
+            "name": "Посади керівників",
+            "id": 29391
+        },
+        "value": "Заступник директора з продажу"
+    }],
+    "id": 23,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12033},
+    "data": [{
+        "field": {
+            "name": "Посади керівників",
+            "id": 29391
+        },
+        "value": "Заступник директора з розвитку"
+    }],
+    "id": 24,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12033},
+    "data": [{
+        "field": {
+            "name": "Посади керівників",
+            "id": 29391
+        },
+        "value": "Заступник директора з якості"
+    }],
+    "id": 25,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12033},
+    "data": [{
+        "field": {
+            "name": "Посади керівників",
+            "id": 29391
+        },
+        "value": "Заступник директора магазину"
+    }],
+    "id": 26,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12033},
+    "data": [{
+        "field": {
+            "name": "Посади керівників",
+            "id": 29391
+        },
+        "value": "Заступник директора філіалу"
+    }],
+    "id": 27,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12033},
+    "data": [{
+        "field": {
+            "name": "Посади керівників",
+            "id": 29391
+        },
+        "value": "Заступник керівника виробництва"
+    }],
+    "id": 28,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12033},
+    "data": [{
+        "field": {
+            "name": "Посади керівників",
+            "id": 29391
+        },
+        "value": "Заступник керівника відділу"
+    }],
+    "id": 29,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12033},
+    "data": [{
+        "field": {
+            "name": "Посади керівників",
+            "id": 29391
+        },
+        "value": "Заступник керівника магазину"
+    }],
+    "id": 30,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12033},
+    "data": [{
+        "field": {
+            "name": "Посади керівників",
+            "id": 29391
+        },
+        "value": "Заступник керівника проєкту10"
+    }],
+    "id": 31,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12033},
+    "data": [{
+        "field": {
+            "name": "Посади керівників",
+            "id": 29391
+        },
+        "value": "Заступник керівника сервісної служби"
+    }],
+    "id": 32,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12033},
+    "data": [{
+        "field": {
+            "name": "Посади керівників",
+            "id": 29391
+        },
+        "value": "Заступник керівника філіалу"
+    }],
+    "id": 33,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12033},
+    "data": [{
+        "field": {
+            "name": "Посади керівників",
+            "id": 29391
+        },
+        "value": "Заступник керуючого філією"
+    }],
+    "id": 34,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12033},
+    "data": [{
+        "field": {
+            "name": "Посади керівників",
+            "id": 29391
+        },
+        "value": "Заступник комерційного директора"
+    }],
+    "id": 35,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12033},
+    "data": [{
+        "field": {
+            "name": "Посади керівників",
+            "id": 29391
+        },
+        "value": "Заступник операційного директора"
+    }],
+    "id": 36,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12033},
+    "data": [{
+        "field": {
+            "name": "Посади керівників",
+            "id": 29391
+        },
+        "value": "Заступник технічного директора"
+    }],
+    "id": 37,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12033},
+    "data": [{
+        "field": {
+            "name": "Посади керівників",
+            "id": 29391
+        },
+        "value": "Заступник фінансового директора"
+    }],
+    "id": 38,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12033},
+    "data": [{
+        "field": {
+            "name": "Посади керівників",
+            "id": 29391
+        },
+        "value": "Інженер з якості"
+    }],
+    "id": 39,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12033},
+    "data": [{
+        "field": {
+            "name": "Посади керівників",
+            "id": 29391
+        },
+        "value": "Керівник (ІТ)"
+    }],
+    "id": 40,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12033},
+    "data": [{
+        "field": {
+            "name": "Посади керівників",
+            "id": 29391
+        },
+        "value": "Керівник (фінанси)"
+    }],
+    "id": 41,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12033},
+    "data": [{
+        "field": {
+            "name": "Посади керівників",
+            "id": 29391
+        },
+        "value": "Керівник PR"
+    }],
+    "id": 42,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12033},
+    "data": [{
+        "field": {
+            "name": "Посади керівників",
+            "id": 29391
+        },
+        "value": "Керівник агентства"
+    }],
+    "id": 43,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12033},
+    "data": [{
+        "field": {
+            "name": "Посади керівників",
+            "id": 29391
+        },
+        "value": "Керівник виробництва"
+    }],
+    "id": 44,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12033},
+    "data": [{
+        "field": {
+            "name": "Посади керівників",
+            "id": 29391
+        },
+        "value": "Керівник відділення"
+    }],
+    "id": 45,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12033},
+    "data": [{
+        "field": {
+            "name": "Посади керівників",
+            "id": 29391
+        },
+        "value": "Керівник відділу"
+    }],
+    "id": 46,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12033},
+    "data": [{
+        "field": {
+            "name": "Посади керівників",
+            "id": 29391
+        },
+        "value": "Керівник відділу кадрів"
+    }],
+    "id": 47,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12033},
+    "data": [{
+        "field": {
+            "name": "Посади керівників",
+            "id": 29391
+        },
+        "value": "Керівник відділу продажу"
+    }],
+    "id": 48,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12033},
+    "data": [{
+        "field": {
+            "name": "Посади керівників",
+            "id": 29391
+        },
+        "value": "Керівник відділу31"
+    }],
+    "id": 49,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12033},
+    "data": [{
+        "field": {
+            "name": "Посади керівників",
+            "id": 29391
+        },
+        "value": "Керівник з маркетингу"
+    }],
+    "id": 50,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12033},
+    "data": [{
+        "field": {
+            "name": "Посади керівників",
+            "id": 29391
+        },
+        "value": "Керівник інтернет-магазину"
+    }],
+    "id": 51,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12033},
+    "data": [{
+        "field": {
+            "name": "Посади керівників",
+            "id": 29391
+        },
+        "value": "Керівник компанії"
+    }],
+    "id": 52,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12033},
+    "data": [{
+        "field": {
+            "name": "Посади керівників",
+            "id": 29391
+        },
+        "value": "Маркетолог"
+    }],
+    "id": 53,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12033},
+    "data": [{
+        "field": {
+            "name": "Посади керівників",
+            "id": 29391
+        },
+        "value": "Менеджер з продажу"
+    }],
+    "id": 54,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12033},
+    "data": [{
+        "field": {
+            "name": "Посади керівників",
+            "id": 29391
+        },
+        "value": "Менеджер з розвитку"
+    }],
+    "id": 55,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12033},
+    "data": [{
+        "field": {
+            "name": "Посади керівників",
+            "id": 29391
+        },
+        "value": "Менеджер проєктів"
+    }],
+    "id": 56,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12033},
+    "data": [{
+        "field": {
+            "name": "Посади керівників",
+            "id": 29391
+        },
+        "value": "Начальник виробництва"
+    }],
+    "id": 57,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12033},
+    "data": [{
+        "field": {
+            "name": "Посади керівників",
+            "id": 29391
+        },
+        "value": "Технічний директор"
+    }],
+    "id": 58,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12033},
+    "data": [{
+        "field": {
+            "name": "Посади керівників",
+            "id": 29391
+        },
+        "value": "Топ-менеджер"
+    }],
+    "id": 59,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12033},
+    "data": [{
+        "field": {
+            "name": "Посади керівників",
+            "id": 29391
+        },
+        "value": "Фінансовий директор"
+    }],
+    "id": 60,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12035},
+    "data": [{
+        "field": {
+            "name": "Мова спілкування",
+            "id": 29393
+        },
+        "value": "uk"
+    }],
+    "id": 2,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12035},
+    "data": [{
+        "field": {
+            "name": "Мова спілкування",
+            "id": 29393
+        },
+        "value": "en"
+    }],
+    "id": 3,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12035},
+    "data": [{
+        "field": {
+            "name": "Мова спілкування",
+            "id": 29393
+        },
+        "value": "ru"
+    }],
+    "id": 4,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12037},
+    "data": [{
+        "field": {
+            "name": "Вид оплати",
+            "id": 29395
+        },
+        "value": "Безготівковий розрахунок (банківський переказ)"
+    }],
+    "id": 1,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12037},
+    "data": [{
+        "field": {
+            "name": "Вид оплати",
+            "id": 29395
+        },
+        "value": "Оплата карткою"
+    }],
+    "id": 2,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12037},
+    "data": [{
+        "field": {
+            "name": "Вид оплати",
+            "id": 29395
+        },
+        "value": "Готівковий розрахунок"
+    }],
+    "id": 3,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12037},
+    "data": [{
+        "field": {
+            "name": "Вид оплати",
+            "id": 29395
+        },
+        "value": "Електронний гаманець (PayPal, LiqPay тощо)"
+    }],
+    "id": 4,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12037},
+    "data": [{
+        "field": {
+            "name": "Вид оплати",
+            "id": 29395
+        },
+        "value": "Криптовалюта"
+    }],
+    "id": 5,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12043},
+    "data": [
+        {
+            "field": {
+                "name": "statusid",
+                "id": 29401
+            },
+            "value": "184"
+        },
+        {
+            "field": {
+                "name": "status",
+                "id": 29403
+            },
+            "value": "Отримання мікропокупки"
+        }
+    ],
+    "id": 1,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12043},
+    "data": [
+        {
+            "field": {
+                "name": "statusid",
+                "id": 29401
+            },
+            "value": "185"
+        },
+        {
+            "field": {
+                "name": "status",
+                "id": 29403
+            },
+            "value": "Планували/ не пришли на презентацію"
+        }
+    ],
+    "id": 2,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12043},
+    "data": [
+        {
+            "field": {
+                "name": "statusid",
+                "id": 29401
+            },
+            "value": "164"
+        },
+        {
+            "field": {
+                "name": "status",
+                "id": 29403
+            },
+            "value": "Відміна"
+        }
+    ],
+    "id": 3,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12043},
+    "data": [
+        {
+            "field": {
+                "name": "statusid",
+                "id": 29401
+            },
+            "value": "115"
+        },
+        {
+            "field": {
+                "name": "status",
+                "id": 29403
+            },
+            "value": "Дожим після презентації"
+        }
+    ],
+    "id": 4,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12043},
+    "data": [
+        {
+            "field": {
+                "name": "statusid",
+                "id": 29401
+            },
+            "value": "141"
+        },
+        {
+            "field": {
+                "name": "status",
+                "id": 29403
+            },
+            "value": "Запланована презентація"
+        }
+    ],
+    "id": 5,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12043},
+    "data": [
+        {
+            "field": {
+                "name": "statusid",
+                "id": 29401
+            },
+            "value": "120"
+        },
+        {
+            "field": {
+                "name": "status",
+                "id": 29403
+            },
+            "value": "Недозвон"
+        }
+    ],
+    "id": 6,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12043},
+    "data": [
+        {
+            "field": {
+                "name": "statusid",
+                "id": 29401
+            },
+            "value": "162"
+        },
+        {
+            "field": {
+                "name": "status",
+                "id": 29403
+            },
+            "value": "Отримання реквізитів"
+        }
+    ],
+    "id": 7,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12043},
+    "data": [
+        {
+            "field": {
+                "name": "statusid",
+                "id": 29401
+            },
+            "value": "121"
+        },
+        {
+            "field": {
+                "name": "status",
+                "id": 29403
+            },
+            "value": "Передзвонити (без часу)"
+        }
+    ],
+    "id": 8,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12043},
+    "data": [
+        {
+            "field": {
+                "name": "statusid",
+                "id": 29401
+            },
+            "value": "165"
+        },
+        {
+            "field": {
+                "name": "status",
+                "id": 29403
+            },
+            "value": "Передзвонити (точний час)"
+        }
+    ],
+    "id": 9,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12043},
+    "data": [
+        {
+            "field": {
+                "name": "statusid",
+                "id": 29401
+            },
+            "value": "183"
+        },
+        {
+            "field": {
+                "name": "status",
+                "id": 29403
+            },
+            "value": "Повернено з виробництва"
+        }
+    ],
+    "id": 10,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12043},
+    "data": [
+        {
+            "field": {
+                "name": "statusid",
+                "id": 29401
+            },
+            "value": "114"
+        },
+        {
+            "field": {
+                "name": "status",
+                "id": 29403
+            },
+            "value": "Поки не актуально"
+        }
+    ],
+    "id": 11,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12043},
+    "data": [
+        {
+            "field": {
+                "name": "statusid",
+                "id": 29401
+            },
+            "value": "122"
+        },
+        {
+            "field": {
+                "name": "status",
+                "id": 29403
+            },
+            "value": "Проведена презентація: готуємось"
+        }
+    ],
+    "id": 12,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12043},
+    "data": [
+        {
+            "field": {
+                "name": "statusid",
+                "id": 29401
+            },
+            "value": "163"
+        },
+        {
+            "field": {
+                "name": "status",
+                "id": 29403
+            },
+            "value": "Продаж/Уcпіх"
+        }
+    ],
+    "id": 13,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12045},
+    "data": [{
+        "field": {
+            "name": "Напрямки",
+            "id": 29405
+        },
+        "value": "тип4"
+    }],
+    "id": 1,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12045},
+    "data": [{
+        "field": {
+            "name": "Напрямки",
+            "id": 29405
+        },
+        "value": "тип1"
+    }],
+    "id": 2,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12045},
+    "data": [{
+        "field": {
+            "name": "Напрямки",
+            "id": 29405
+        },
+        "value": "тип3"
+    }],
+    "id": 3,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12045},
+    "data": [{
+        "field": {
+            "name": "Напрямки",
+            "id": 29405
+        },
+        "value": "тип5"
+    }],
+    "id": 4,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12045},
+    "data": [{
+        "field": {
+            "name": "Напрямки",
+            "id": 29405
+        },
+        "value": "тип2"
+    }],
+    "id": 5,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12049},
+    "data": [
+        {
+            "field": {
+                "name": "Часова зона",
+                "id": 29409
+            },
+            "value": "Україна (EET, UTC+2)"
+        },
+        {
+            "field": {
+                "name": "Государство",
+                "id": 29411
+            },
+            "value": ""
+        }
+    ],
+    "id": 1,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12049},
+    "data": [
+        {
+            "field": {
+                "name": "Часова зона",
+                "id": 29409
+            },
+            "value": "Europe/Kyiv"
+        },
+        {
+            "field": {
+                "name": "Государство",
+                "id": 29411
+            },
+            "value": "Україна"
+        }
+    ],
+    "id": 2,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12049},
+    "data": [
+        {
+            "field": {
+                "name": "Часова зона",
+                "id": 29409
+            },
+            "value": "Europe/Prague"
+        },
+        {
+            "field": {
+                "name": "Государство",
+                "id": 29411
+            },
+            "value": "Чехія"
+        }
+    ],
+    "id": 3,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12049},
+    "data": [
+        {
+            "field": {
+                "name": "Часова зона",
+                "id": 29409
+            },
+            "value": "Europe/Warsaw"
+        },
+        {
+            "field": {
+                "name": "Государство",
+                "id": 29411
+            },
+            "value": "Польща"
+        }
+    ],
+    "id": 4,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12049},
+    "data": [
+        {
+            "field": {
+                "name": "Часова зона",
+                "id": 29409
+            },
+            "value": "Europe/Berlin"
+        },
+        {
+            "field": {
+                "name": "Государство",
+                "id": 29411
+            },
+            "value": "Німеччина"
+        }
+    ],
+    "id": 5,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12049},
+    "data": [
+        {
+            "field": {
+                "name": "Часова зона",
+                "id": 29409
+            },
+            "value": "Europe/Paris"
+        },
+        {
+            "field": {
+                "name": "Государство",
+                "id": 29411
+            },
+            "value": "Франція"
+        }
+    ],
+    "id": 6,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12049},
+    "data": [
+        {
+            "field": {
+                "name": "Часова зона",
+                "id": 29409
+            },
+            "value": "Europe/Rome"
+        },
+        {
+            "field": {
+                "name": "Государство",
+                "id": 29411
+            },
+            "value": "Італія"
+        }
+    ],
+    "id": 7,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12049},
+    "data": [
+        {
+            "field": {
+                "name": "Часова зона",
+                "id": 29409
+            },
+            "value": "Europe/Madrid"
+        },
+        {
+            "field": {
+                "name": "Государство",
+                "id": 29411
+            },
+            "value": "Іспанія"
+        }
+    ],
+    "id": 8,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12049},
+    "data": [
+        {
+            "field": {
+                "name": "Часова зона",
+                "id": 29409
+            },
+            "value": "Europe/Amsterdam"
+        },
+        {
+            "field": {
+                "name": "Государство",
+                "id": 29411
+            },
+            "value": "Нідерланди"
+        }
+    ],
+    "id": 9,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12049},
+    "data": [
+        {
+            "field": {
+                "name": "Часова зона",
+                "id": 29409
+            },
+            "value": "Europe/Stockholm"
+        },
+        {
+            "field": {
+                "name": "Государство",
+                "id": 29411
+            },
+            "value": "Швеція"
+        }
+    ],
+    "id": 10,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12049},
+    "data": [
+        {
+            "field": {
+                "name": "Часова зона",
+                "id": 29409
+            },
+            "value": "Europe/Oslo"
+        },
+        {
+            "field": {
+                "name": "Государство",
+                "id": 29411
+            },
+            "value": "Норвегія"
+        }
+    ],
+    "id": 11,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12049},
+    "data": [
+        {
+            "field": {
+                "name": "Часова зона",
+                "id": 29409
+            },
+            "value": "Europe/Zurich"
+        },
+        {
+            "field": {
+                "name": "Государство",
+                "id": 29411
+            },
+            "value": "Швейцарія"
+        }
+    ],
+    "id": 12,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12049},
+    "data": [
+        {
+            "field": {
+                "name": "Часова зона",
+                "id": 29409
+            },
+            "value": "Europe/Vienna"
+        },
+        {
+            "field": {
+                "name": "Государство",
+                "id": 29411
+            },
+            "value": "Австрія"
+        }
+    ],
+    "id": 13,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12049},
+    "data": [
+        {
+            "field": {
+                "name": "Часова зона",
+                "id": 29409
+            },
+            "value": "Europe/Budapest"
+        },
+        {
+            "field": {
+                "name": "Государство",
+                "id": 29411
+            },
+            "value": "Угорщина"
+        }
+    ],
+    "id": 14,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12049},
+    "data": [
+        {
+            "field": {
+                "name": "Часова зона",
+                "id": 29409
+            },
+            "value": "Europe/Bucharest"
+        },
+        {
+            "field": {
+                "name": "Государство",
+                "id": 29411
+            },
+            "value": "Румунія"
+        }
+    ],
+    "id": 15,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12049},
+    "data": [
+        {
+            "field": {
+                "name": "Часова зона",
+                "id": 29409
+            },
+            "value": "Europe/Sofia"
+        },
+        {
+            "field": {
+                "name": "Государство",
+                "id": 29411
+            },
+            "value": "Болгарія"
+        }
+    ],
+    "id": 16,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12049},
+    "data": [
+        {
+            "field": {
+                "name": "Часова зона",
+                "id": 29409
+            },
+            "value": "Europe/Athens"
+        },
+        {
+            "field": {
+                "name": "Государство",
+                "id": 29411
+            },
+            "value": "Греція"
+        }
+    ],
+    "id": 17,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12049},
+    "data": [
+        {
+            "field": {
+                "name": "Часова зона",
+                "id": 29409
+            },
+            "value": "Europe/Vilnius"
+        },
+        {
+            "field": {
+                "name": "Государство",
+                "id": 29411
+            },
+            "value": "Литва"
+        }
+    ],
+    "id": 18,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12049},
+    "data": [
+        {
+            "field": {
+                "name": "Часова зона",
+                "id": 29409
+            },
+            "value": "Europe/Riga"
+        },
+        {
+            "field": {
+                "name": "Государство",
+                "id": 29411
+            },
+            "value": "Латвія"
+        }
+    ],
+    "id": 19,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12049},
+    "data": [
+        {
+            "field": {
+                "name": "Часова зона",
+                "id": 29409
+            },
+            "value": "Europe/Tallinn"
+        },
+        {
+            "field": {
+                "name": "Государство",
+                "id": 29411
+            },
+            "value": "Естонія"
+        }
+    ],
+    "id": 20,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12049},
+    "data": [
+        {
+            "field": {
+                "name": "Часова зона",
+                "id": 29409
+            },
+            "value": "Europe/Helsinki"
+        },
+        {
+            "field": {
+                "name": "Государство",
+                "id": 29411
+            },
+            "value": "Фінляндія"
+        }
+    ],
+    "id": 21,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12049},
+    "data": [
+        {
+            "field": {
+                "name": "Часова зона",
+                "id": 29409
+            },
+            "value": "Europe/Brussels"
+        },
+        {
+            "field": {
+                "name": "Государство",
+                "id": 29411
+            },
+            "value": "Бельгія"
+        }
+    ],
+    "id": 22,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12049},
+    "data": [
+        {
+            "field": {
+                "name": "Часова зона",
+                "id": 29409
+            },
+            "value": "Europe/Lisbon"
+        },
+        {
+            "field": {
+                "name": "Государство",
+                "id": 29411
+            },
+            "value": "Португалія"
+        }
+    ],
+    "id": 23,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12049},
+    "data": [
+        {
+            "field": {
+                "name": "Часова зона",
+                "id": 29409
+            },
+            "value": "Europe/London"
+        },
+        {
+            "field": {
+                "name": "Государство",
+                "id": 29411
+            },
+            "value": "Велика Британія"
+        }
+    ],
+    "id": 24,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12049},
+    "data": [
+        {
+            "field": {
+                "name": "Часова зона",
+                "id": 29409
+            },
+            "value": "Europe/Dublin"
+        },
+        {
+            "field": {
+                "name": "Государство",
+                "id": 29411
+            },
+            "value": "Ірландія"
+        }
+    ],
+    "id": 25,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12049},
+    "data": [
+        {
+            "field": {
+                "name": "Часова зона",
+                "id": 29409
+            },
+            "value": "America/New_York"
+        },
+        {
+            "field": {
+                "name": "Государство",
+                "id": 29411
+            },
+            "value": "США (Нью-Йорк)"
+        }
+    ],
+    "id": 26,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12049},
+    "data": [
+        {
+            "field": {
+                "name": "Часова зона",
+                "id": 29409
+            },
+            "value": "America/Los_Angeles"
+        },
+        {
+            "field": {
+                "name": "Государство",
+                "id": 29411
+            },
+            "value": "США (Лос-Анджелес)"
+        }
+    ],
+    "id": 27,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12049},
+    "data": [
+        {
+            "field": {
+                "name": "Часова зона",
+                "id": 29409
+            },
+            "value": "America/Toronto"
+        },
+        {
+            "field": {
+                "name": "Государство",
+                "id": 29411
+            },
+            "value": "Канада (Торонто)"
+        }
+    ],
+    "id": 28,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12049},
+    "data": [
+        {
+            "field": {
+                "name": "Часова зона",
+                "id": 29409
+            },
+            "value": "America/Vancouver"
+        },
+        {
+            "field": {
+                "name": "Государство",
+                "id": 29411
+            },
+            "value": "Канада (Ванкувер)"
+        }
+    ],
+    "id": 29,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12049},
+    "data": [
+        {
+            "field": {
+                "name": "Часова зона",
+                "id": 29409
+            },
+            "value": "America/Mexico_City"
+        },
+        {
+            "field": {
+                "name": "Государство",
+                "id": 29411
+            },
+            "value": "Мексика"
+        }
+    ],
+    "id": 30,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12049},
+    "data": [
+        {
+            "field": {
+                "name": "Часова зона",
+                "id": 29409
+            },
+            "value": "America/Sao_Paulo"
+        },
+        {
+            "field": {
+                "name": "Государство",
+                "id": 29411
+            },
+            "value": "Бразилія"
+        }
+    ],
+    "id": 31,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12049},
+    "data": [
+        {
+            "field": {
+                "name": "Часова зона",
+                "id": 29409
+            },
+            "value": "America/Argentina/Buenos_Aires"
+        },
+        {
+            "field": {
+                "name": "Государство",
+                "id": 29411
+            },
+            "value": "Аргентина"
+        }
+    ],
+    "id": 32,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12049},
+    "data": [
+        {
+            "field": {
+                "name": "Часова зона",
+                "id": 29409
+            },
+            "value": "Asia/Shanghai"
+        },
+        {
+            "field": {
+                "name": "Государство",
+                "id": 29411
+            },
+            "value": "Китай"
+        }
+    ],
+    "id": 33,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12049},
+    "data": [
+        {
+            "field": {
+                "name": "Часова зона",
+                "id": 29409
+            },
+            "value": "Asia/Tokyo"
+        },
+        {
+            "field": {
+                "name": "Государство",
+                "id": 29411
+            },
+            "value": "Японія"
+        }
+    ],
+    "id": 34,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12049},
+    "data": [
+        {
+            "field": {
+                "name": "Часова зона",
+                "id": 29409
+            },
+            "value": "Asia/Seoul"
+        },
+        {
+            "field": {
+                "name": "Государство",
+                "id": 29411
+            },
+            "value": "Південна Корея"
+        }
+    ],
+    "id": 35,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12049},
+    "data": [
+        {
+            "field": {
+                "name": "Часова зона",
+                "id": 29409
+            },
+            "value": "Asia/Kolkata"
+        },
+        {
+            "field": {
+                "name": "Государство",
+                "id": 29411
+            },
+            "value": "Індія"
+        }
+    ],
+    "id": 36,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12049},
+    "data": [
+        {
+            "field": {
+                "name": "Часова зона",
+                "id": 29409
+            },
+            "value": "Asia/Jakarta"
+        },
+        {
+            "field": {
+                "name": "Государство",
+                "id": 29411
+            },
+            "value": "Індонезія"
+        }
+    ],
+    "id": 37,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12049},
+    "data": [
+        {
+            "field": {
+                "name": "Часова зона",
+                "id": 29409
+            },
+            "value": "Asia/Almaty"
+        },
+        {
+            "field": {
+                "name": "Государство",
+                "id": 29411
+            },
+            "value": "Казахстан"
+        }
+    ],
+    "id": 38,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12049},
+    "data": [
+        {
+            "field": {
+                "name": "Часова зона",
+                "id": 29409
+            },
+            "value": "Asia/Jerusalem"
+        },
+        {
+            "field": {
+                "name": "Государство",
+                "id": 29411
+            },
+            "value": "Ізраїль"
+        }
+    ],
+    "id": 39,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12049},
+    "data": [
+        {
+            "field": {
+                "name": "Часова зона",
+                "id": 29409
+            },
+            "value": "Europe/Istanbul"
+        },
+        {
+            "field": {
+                "name": "Государство",
+                "id": 29411
+            },
+            "value": "Туреччина"
+        }
+    ],
+    "id": 40,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12049},
+    "data": [
+        {
+            "field": {
+                "name": "Часова зона",
+                "id": 29409
+            },
+            "value": "Asia/Riyadh"
+        },
+        {
+            "field": {
+                "name": "Государство",
+                "id": 29411
+            },
+            "value": "Саудівська Аравія"
+        }
+    ],
+    "id": 41,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12049},
+    "data": [
+        {
+            "field": {
+                "name": "Часова зона",
+                "id": 29409
+            },
+            "value": "Asia/Dubai"
+        },
+        {
+            "field": {
+                "name": "Государство",
+                "id": 29411
+            },
+            "value": "ОАЕ"
+        }
+    ],
+    "id": 42,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12049},
+    "data": [
+        {
+            "field": {
+                "name": "Часова зона",
+                "id": 29409
+            },
+            "value": "Australia/Sydney"
+        },
+        {
+            "field": {
+                "name": "Государство",
+                "id": 29411
+            },
+            "value": "Австралія (Сідней)"
+        }
+    ],
+    "id": 43,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12049},
+    "data": [
+        {
+            "field": {
+                "name": "Часова зона",
+                "id": 29409
+            },
+            "value": "Pacific/Auckland"
+        },
+        {
+            "field": {
+                "name": "Государство",
+                "id": 29411
+            },
+            "value": "Нова Зеландія"
+        }
+    ],
+    "id": 44,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12049},
+    "data": [
+        {
+            "field": {
+                "name": "Часова зона",
+                "id": 29409
+            },
+            "value": "Africa/Cairo"
+        },
+        {
+            "field": {
+                "name": "Государство",
+                "id": 29411
+            },
+            "value": "Єгипет"
+        }
+    ],
+    "id": 45,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12049},
+    "data": [
+        {
+            "field": {
+                "name": "Часова зона",
+                "id": 29409
+            },
+            "value": "Africa/Johannesburg"
+        },
+        {
+            "field": {
+                "name": "Государство",
+                "id": 29411
+            },
+            "value": "ПАР"
+        }
+    ],
+    "id": 46,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12049},
+    "data": [
+        {
+            "field": {
+                "name": "Часова зона",
+                "id": 29409
+            },
+            "value": "Asia/Nicosia"
+        },
+        {
+            "field": {
+                "name": "Государство",
+                "id": 29411
+            },
+            "value": ""
+        }
+    ],
+    "id": 47,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12049},
+    "data": [
+        {
+            "field": {
+                "name": "Часова зона",
+                "id": 29409
+            },
+            "value": "Europe/Chisinau"
+        },
+        {
+            "field": {
+                "name": "Государство",
+                "id": 29411
+            },
+            "value": ""
+        }
+    ],
+    "id": 48,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12049},
+    "data": [
+        {
+            "field": {
+                "name": "Часова зона",
+                "id": 29409
+            },
+            "value": "Europe/Moscow"
+        },
+        {
+            "field": {
+                "name": "Государство",
+                "id": 29411
+            },
+            "value": ""
+        }
+    ],
+    "id": 49,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12049},
+    "data": [
+        {
+            "field": {
+                "name": "Часова зона",
+                "id": 29409
+            },
+            "value": "Europe/Podgorica"
+        },
+        {
+            "field": {
+                "name": "Государство",
+                "id": 29411
+            },
+            "value": ""
+        }
+    ],
+    "id": 50,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12051},
+    "data": [
+        {
+            "field": {
+                "name": "Name",
+                "id": 29413
+            },
+            "value": "Основна воронка прогріву"
+        },
+        {
+            "field": {
+                "name": "ID",
+                "id": 29415
+            },
+            "value": "66bafa1ed43871e18f0465cf"
+        }
+    ],
+    "id": 1,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12051},
+    "data": [
+        {
+            "field": {
+                "name": "Name",
+                "id": 29413
+            },
+            "value": "Воронка дожима"
+        },
+        {
+            "field": {
+                "name": "ID",
+                "id": 29415
+            },
+            "value": "66c36cb0be116cd00d0c28fe"
+        }
+    ],
+    "id": 2,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12053},
+    "data": [{
+        "field": {
+            "name": "Ціль проекту",
+            "id": 29417
+        },
+        "value": "Протестувати звіт"
+    }],
+    "id": 1,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12053},
+    "data": [{
+        "field": {
+            "name": "Ціль проекту",
+            "id": 29417
+        },
+        "value": "Клієнтський проєкт"
+    }],
+    "id": 2,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12053},
+    "data": [{
+        "field": {
+            "name": "Ціль проекту",
+            "id": 29417
+        },
+        "value": "Масштабування"
+    }],
+    "id": 3,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12053},
+    "data": [{
+        "field": {
+            "name": "Ціль проекту",
+            "id": 29417
+        },
+        "value": "AI/Автоматизація"
+    }],
+    "id": 4,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12053},
+    "data": [{
+        "field": {
+            "name": "Ціль проекту",
+            "id": 29417
+        },
+        "value": "Прозорість"
+    }],
+    "id": 5,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12053},
+    "data": [{
+        "field": {
+            "name": "Ціль проекту",
+            "id": 29417
+        },
+        "value": "Фінанси"
+    }],
+    "id": 6,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12053},
+    "data": [{
+        "field": {
+            "name": "Ціль проекту",
+            "id": 29417
+        },
+        "value": "Внутрішня розробка"
+    }],
+    "id": 7,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12055},
+    "data": [{
+        "field": {
+            "name": "Причина",
+            "id": 29419
+        },
+        "value": "Дорого"
+    }],
+    "id": 1,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12055},
+    "data": [{
+        "field": {
+            "name": "Причина",
+            "id": 29419
+        },
+        "value": "Не актуально"
+    }],
+    "id": 2,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12055},
+    "data": [{
+        "field": {
+            "name": "Причина",
+            "id": 29419
+        },
+        "value": "Не актуально на текущий момент"
+    }],
+    "id": 3,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12055},
+    "data": [{
+        "field": {
+            "name": "Причина",
+            "id": 29419
+        },
+        "value": "Ошибка в данных лида"
+    }],
+    "id": 4,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12061},
+    "data": [
+        {
+            "field": {
+                "name": "Назва",
+                "id": 29429
+            },
+            "value": "123"
+        },
+        {
+            "field": {
+                "name": "Вартість",
+                "id": 29431
+            },
+            "value": "123"
+        },
+        {
+            "field": {
+                "name": "Ссылка на КП",
+                "id": 29433
+            },
+            "value": "123"
+        },
+        {
+            "field": {
+                "name": "Ссылка на Презентацию",
+                "id": 29435
+            },
+            "value": "132"
+        }
+    ],
+    "id": 1,
+    "isGroup": false,
+    "parentId": 0
+}
+,{
+    "handbook": {"id": 12061},
+    "data": [{"value": "123"}],
+    "id": 2,
+    "isGroup": true,
+    "parentId": 0
+}
+]
