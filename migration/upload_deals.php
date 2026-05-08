@@ -79,7 +79,8 @@ if ($limit > 0) {
 }
 
 echo "Total rows to process: $total\n";
-echo "Starting from index: " . $progress['lastIndex'] . "\n";
+$startIndex = $progress['lastIndex'];
+echo "Starting from index: $startIndex\n";
 
 // Mappings based on inspection:
 // [0] created_time
@@ -112,7 +113,8 @@ for ($i = $progress['lastIndex']; $i < $total; $i++) {
             'fields' => [
                 'NAME' => $fullName,
                 'PHONE' => [['VALUE' => $phone, 'VALUE_TYPE' => 'WORK']],
-                'EMAIL' => [['VALUE' => $email, 'VALUE_TYPE' => 'WORK']]
+                'EMAIL' => [['VALUE' => $email, 'VALUE_TYPE' => 'WORK']],
+                'ASSIGNED_BY_ID' => 1
             ]
         ]),
         'deal_add' => 'crm.deal.add?' . http_build_query([
@@ -121,7 +123,8 @@ for ($i = $progress['lastIndex']; $i < $total; $i++) {
                 'CONTACT_ID' => '$result[contact_add]',
                 'SOURCE_ID' => 'SSM',
                 'UF_CRM_1778243605' => $sourceInfo,
-                'UF_CRM_DEAL_1777620403795' => $messengerInfo
+                'UF_CRM_DEAL_1777620403795' => $messengerInfo,
+                'ASSIGNED_BY_ID' => 1
             ]
         ])
     ];
@@ -143,7 +146,7 @@ for ($i = $progress['lastIndex']; $i < $total; $i++) {
     usleep(400000);
 }
 
-echo "\nDone. Processed " . ($i - $progress['lastIndex']) . " rows.\n";
+echo "\nDone. Processed " . ($i - $startIndex) . " rows.\n";
 if (!empty($failedRows)) {
     echo "Check failed_deals.json for " . count($failedRows) . " errors.\n";
 }

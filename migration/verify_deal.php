@@ -17,5 +17,5 @@ function callB24($method, $params = []) {
     return json_decode($response, true);
 }
 
-$deal = callB24('crm.deal.get', ['id' => 6437]);
+$deal = callB24('crm.deal.get', ['id' => 6449]);
 print_r($deal);
